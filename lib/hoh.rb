@@ -60,4 +60,5 @@ def naming_system
       }
     }
   }
+  return starting_node
 end
